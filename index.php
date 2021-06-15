@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Hello Darkness my old friend";
+echo "Ok it worked";
 ?>
 
 </body>
